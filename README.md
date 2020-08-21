@@ -1,5 +1,5 @@
 # Anice Dusk
-Dark OSX themed look for Aseprite
+Dark macOS themed look for Aseprite
 
 Currently in development
 
