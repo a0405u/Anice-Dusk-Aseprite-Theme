@@ -1,0 +1,16 @@
+{
+  "name": "anise-dusk-theme",
+  "displayName": "Anise Dusk Theme",
+  "description": "Nighttime Pixel-Art Theme",
+  "version": "1.0",
+  "author": { "name": "A0405u", "email": "A0405u@gmail.com" },
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "anice dusk", "path": "." }
+    ]
+  }
+}
