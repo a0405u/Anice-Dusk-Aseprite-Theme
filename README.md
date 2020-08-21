@@ -4,17 +4,17 @@ Currently in development
 ## Installation:
 Put theme folder into `extensions` folder inside your Aseprite preferences folder.
 
-**Windows:
+**Windows:**
 ```
   %AppData%\Aseprite
 ```
 
-**macOS:
+**macOS:**
 ```
   ~/Library/Application Support/Aseprite
 ```
 
-**Linux:
+**Linux:**
 ```
   ~/.config/aseprite
 ```
