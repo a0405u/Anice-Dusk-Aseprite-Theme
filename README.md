@@ -1,4 +1,5 @@
 # Anice Dusk
+Dark OSX themed look for Aseprite
 Currently in development
 
 ## Installation:
