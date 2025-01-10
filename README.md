@@ -1,4 +1,4 @@
-# Anice Dusk
+# Anice Dusk Aseprite Theme
 Dark macOS styled look for Aseprite
 
 <img width="480" alt="Screenshot 2025-01-10 at 08 22 26" src="https://github.com/user-attachments/assets/0b589785-da9e-4a10-b010-e8b6a6f0b1a6" />
